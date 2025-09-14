@@ -1,7 +1,7 @@
 import axios from "axios";
 import type { AxiosRequestConfig, AxiosResponse } from "axios";
 const baseUrl =
-  import.meta.env.VITE_BACKEND_PATH || "https://rag-backend-2ev3.onrender.com/api/v1";
+  import.meta.env.VITE_BACKEND_PATH || "https://localhost:2309/api/v1";
 const apiClient = axios.create({
   withCredentials: true,
   baseURL: baseUrl,
