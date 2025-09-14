@@ -99,10 +99,10 @@ frontend/
 
 In the project directory, you can run the following commands:
 
-- npm run dev: Starts the Vite development server.
+- ```npm run dev```: Starts the Vite development server.
 
-- npm run build: Compiles TypeScript and builds the app for production into the dist/ folder.
+- ```npm run build```: Compiles TypeScript and builds the app for production into the dist/ folder.
 
-- npm run lint: Lints the source code using ESLint.
+- ```npm run lint```: Lints the source code using ESLint.
 
-- npm run preview: Starts a local server to preview the production build.
+- ```npm run preview```: Starts a local server to preview the production build.
